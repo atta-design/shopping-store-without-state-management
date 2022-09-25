@@ -1,0 +1,149 @@
+.App {
+  text-align: center;
+}
+
+.block{
+
+background-color: aquamarine;
+border-radius: 10%;
+
+
+}
+.icon-container{
+  margin: 0 auto;
+}
+.icon-bar{
+  font-size:100px ;
+  margin-left: 60px;
+}
+.caption_big{
+  font-size: 40px;
+}
+.caption{
+  font-size: 50px;
+}
+.icons{
+  font-size: 150px;
+ margin:50px 40px ;
+
+}
+.main{
+  background-color: rgb(220, 211, 230);
+   width: 98%;
+  margin-top: 30px!important;
+  padding-bottom: 10px;
+  
+margin: 0 auto;
+}
+.basket{
+  background-color:gainsboro ;
+  margin-top: 30px;
+  border-left: 5px solid snow;
+ width: 70%;
+ margin: 20px auto;
+ 
+  
+}
+.productIMG{
+width: 320px;
+height:300px;
+}
+.popular{
+
+justify-content: center;
+}
+.box{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3vw;
+  margin-bottom: 30px;
+ width: 330px;
+ border-radius: 7% 7% 7% 7%;
+  padding-top: 25px;
+  padding-bottom: 40px;
+  background-color: brown!important;
+  color: wheat;
+}
+.box:hover{
+  border: solid 2px goldenrod;
+  width: 335px;
+  padding-top: 28px;
+  transition: ease-in-out 0.9s;
+opacity: 0.5;
+}
+
+ul{
+  list-style: none;
+}
+.discribe{
+  background-color: aquamarine;
+  max-width: 70%;
+  padding: 1vw;
+  border-radius: 15px 15px 15px 15px ;
+  margin-top: 15px;
+
+}
+
+
+.active{
+  background-color: aqua!important;
+text-decoration: none!important;
+}
+.rule-text{
+  width: 80%;
+  margin: 10px auto;
+ text-align: left;
+}
+
+.carousel{
+  
+  
+
+margin: 0 auto;
+}
+.brand{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer{
+background-color: teal;
+width: 100vw;
+height:20vh;
+
+}
+.footer-txt{
+margin-top: 30px;
+
+}
+.checkout-btn{
+height: 7vh;
+margin-top:11vw;
+margin-bottom: 1vw;
+width: 20vw;
+}
+.basket-title{
+background-color: rgb(63, 58, 58);
+color: aliceblue;
+padding-top: 1.5vh;
+padding-bottom: 1.5vh;
+margin-bottom: 1vh;
+
+}
+.main-title{
+  background-color: rgb(63, 58, 58);
+color: aliceblue;
+
+padding-top: 1.5vh;
+padding-bottom: 1.5vh;
+margin-bottom: 10vh;
+}
+p{
+  font-size: 1vw;
+}
+h3{
+  font-size: 2vw;
+}
+.slide-pic{
+  height: 120vh;
+}
+
+
